@@ -3,7 +3,7 @@
     <site-hero
       title="Traditional Marriage"
       subtitle="Example About Page"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/aboutpic.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
