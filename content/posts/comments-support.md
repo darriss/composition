@@ -3,13 +3,8 @@ title: Arabic Glossary
 subtitle: Add Comments to Posts With Disqus
 category:
   - Third Party Integrations
-author: Daniel Kelly
-date: 2019-07-24T19:59:59.000Z
 featureImage: /uploads/arabicwriting.jpg
 ---
-
-<!--![Screenshot of Disqus homepage](/uploads/disqus-get-started.jpg)--->
-
 ## Arabic to English Glossary
 | Arabic | English                                                                   |
 | ------ | ------------------------------------------------------------------------- |
