@@ -16,47 +16,55 @@ Go to disqus.com and click on "Get Started"
 ![Screenshot of Disqus homepage](/uploads/disqus-get-started.jpg)
 
 ## Step 2
-
-
-مَقْبول       acceptable, passing
-تَرتيب       arrangement
-رَتَّبَ         to arrange
-مُناسِب/ة  مْناسِب/ة      appropriate, suitable
-صاحِب        boyfriend
-شَجَّعَ على ،يُشَجَّعو التَّشْجيع     (to) cheer (on), encourage (to)
-بِنْت خال/ة   cousin (f, maternal)
-الثَّقافة     culture
-قَرار        decision
-الطَّلاق       divorce
-التَعليم     education
-خُطِبَت لِ      (got) engaged to
-خَطيب/ة      fiance/fiancee
-أموال ، مالِيّ/ة    financial
-تَعَرَّفَ على    (to) get to know
-حُكومة       government
-تُراث        heritage (literacy and cultural)
-زَوْج         husband
-دعا، يَدعو   to invite
-الحُبٌ، أَحَبَّ، يُحِبّ     (to) love
-تعارُف       making the mutual acquaintance (of), getting to know (one another)
-مُتَزَوَّج       married
-المَعْرِب      Morocco
-حَماة        mother in law
-حَفْلة        party
-فَتير        poor
-غَنِيّ         rich
-عُرس         wedding
-وَثِقَ "ب" أو "في"    to trust, have confidence in
-مَخزَن        storehouse, warehouse
-وَلِيّ‎         guardian
-
-Quran
-
-
-marriage
-
-
-
+| Arabic | English                                                                   |
+| ------ | ------------------------------------------------------------------------- |
+| مَقْبول  |                                                                           |
+| تَرتيب  |                                                                           |
+| رَتَّبَ    |                                                                           |
+| مُناسِب/ة  مْناسِب/ة|                                                                  |
+| صاحِب   |                                                                           |
+|شَجَّعَ على ،يُشَجَّعو التَّشْجيع  |                                                         |
+|بِنْت خال/ة |                                                                         |
+|الثَّقافة |                                                                           |
+|قَرار    |                                                                           |
+|الطَّلاق   |                                                                           |
+|التَعليم |                                                                           |
+|خُطِبَت لِ  |                                                                           |
+|خَطيب/ة  |                                                                           |
+|أموال ، مالِيّ/ة |                                                                    |
+|تَعَرَّفَ على |                                                                          |
+|حُكومة   |                                                                           |
+|تُراث    |                                                                           |
+|زَوْج     |                                                                           |
+|دعا، يَدعو|                                                                          |
+|الحُبٌ، أَحَبَّ، يُحِبّ |                                                                    |
+|تعارُف   |                                                                           |
+|مُتَزَوَّج   |                                                                           |
+|المَعْرِب  |                                                                           |
+|حَماة    |                                                                           |
+|حَفْلة    |                                                                           |
+|فَتير    |                                                                           |
+|غَنِيّ     |                                                                           |
+|عُرس     |                                                                           |
+|وَثِقَ "ب" أو "في"   |                                                                 |
+|مَخزَن    |                                                                           |
+|        |Quran                                                                      |
+|        |marriage                                                                   |
+|وَلِيّ‎     |guardian                                                                   |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
 
 ![Disqus button "I want to install Disqus on my site"](/uploads/disqus-add-to-website.jpg)
 
