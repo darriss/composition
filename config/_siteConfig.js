@@ -9,7 +9,7 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
+  siteName: 'Marriage in Morocco',
   tagline: 'A Nuxt.js Theme for Netlify CMS',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
@@ -32,7 +32,7 @@ export default {
     },
     {
       name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
+      link: 'https://github.com/darriss/composition',
       target: '_blank'
     },
     {
