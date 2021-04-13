@@ -63,7 +63,6 @@ export default {
   // Newsletter Subscribe
 
   newsletter: {
-      /**
     on: true,
     heading: 'Subscribe to Our Newsletter',
     btnText: 'Subscribe',
@@ -77,7 +76,6 @@ export default {
     custom: {
       on: false,
       formAction: ''
-      */
     }
   },
 
