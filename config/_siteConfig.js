@@ -54,7 +54,7 @@ export default {
   },
 
   // Disqus
-  /**
+  
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
@@ -79,7 +79,7 @@ export default {
       formAction: ''
     }
   },
-*/
+
   // Categories
   categories: {
     on: true,
