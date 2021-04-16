@@ -14,7 +14,6 @@ featureImage: /uploads/arabicwriting.jpg
 | مُناسِب/ة  مْناسِب/ة|appropiate, suitable                                              |
 | صاحِب   |boyfriend                                                                  |
 |شَجَّعَ على ،يُشَجَّعو التَّشْجيع  |(to) cheer (on), encourage (to)                          |
-|بِنْت خال/ة |cousin (f, maternal)                                                     |
 |الثَّقافة | culture                                                                   |
 |قَرار    | decision                                                                  |
 |الطَّلاق   | divorce                                                                   |
@@ -25,27 +24,23 @@ featureImage: /uploads/arabicwriting.jpg
 |تَعَرَّفَ على | (to) get to know                                                         |
 |حُكومة   | government                                                                |
 |تُراث    | heritage (literacy and cultural)                                          |
-|زَوْج     | husband                                                                   |
 |دعا، يَدعو| to invite                                                                |
-|الحُبٌ، أَحَبَّ، يُحِبّ | (to) love                                                          |
 |تعارُف   | making the mutual acquaintance (of), getting to know (one another)        |
-|مُتَزَوَّج   | married                                                                   |
 |المَعْرِب  | Morocco                                                                   |
 |حَماة    | mother in law                                                             |
-|حَفْلة    | party                                                                     |
 |فَتير    | poor                                                                      |
 |غَنِيّ     | rich                                                                      |
 |عُرس     | wedding                                                                   |
 |وَثِقَ "ب" أو "في"   | to trust, have confidence in                                    |
 |مَخزَن    | storehouse, warehouse                                                     |
-|        |Quran                                                                      |
-|        |marriage                                                                   |
+|القُرآن  |Quran                                                                      |
+|زَواج    |marriage                                                                   |
 |وَلِيّ‎     |guardian                                                                   |
-|        |                                                                           |
-|        |                                                                           |
-|        |                                                                           |
-|        |                                                                           |
-|        |                                                                           |
+|البيانات |data                                                                      |
+|حضري    | urban                                                                     |
+|نَفَقَة    |tunnel (mans financial obligation towards his wife)                        |
+|قروي    |rural                                                                      |
+|زِنًى     |fornication                                                                |
 |        |                                                                           |
 |        |                                                                           |
 |        |                                                                           |
