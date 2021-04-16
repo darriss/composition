@@ -3,175 +3,102 @@ title: Post Markup And Formatting
 subtitle: All the Tags You Need to Make Clean and Expressive Posts
 category:
   - About Awake
-author: Daniel Kelly
-date: 2019-07-04T03:02:00.000Z
-featureImage: /uploads/markup-hero.jpg
+featureImage: /uploads/arabicwriting.jpg
 ---
-Awake uses the awesome npm package [markdown-it ](https://github.com/markdown-it/markdown-it)by [Vitaly Puzrin](https://github.com/puzrin) to provide a wealth of markup options for your posts
-
-# h1 Heading
-
-## h2 Heading
-
-### h3 Heading
-
-#### h4 Heading
-
-##### h5 Heading
-
-###### h6 Heading
-
-## Horizontal Rules
-
-- - -
-
-## Typographic replacements
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,,  -- ---
-
-"Smartypants, double quotes" and 'single quotes'
-
-## Emphasis
-
-**This is bold text**
-
-**This is bold text**
-
-_This is italic text_
-
-_This is italic text_
-
-~~Strikethrough~~
-
-## Blockquotes
-
-> Blockquotes can also be nested...
->
-> > ...by using additional greater-than signs right next to each other...
-> >
-> > > ...or with spaces between arrows.
-
-## Lists
-
-Unordered
-
-* Create a list by starting a line with `+`, `-`, or `*`
-* Sub-lists are made by indenting 2 spaces:
-  * Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    * Facilisis in pretium nisl aliquet
-    * Nulla volutpat aliquam velit
-* Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-4. You can use sequential numbers...
-5. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-58. bar
-
-## Code
-
-Inline `code`
-
-Indented code
-
-```
-// Some comments
-line 1 of code
-line 2 of code
-line 3 of code
-```
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-## Tables
-
-| Option | Description                                                               |
+## Arabic to English Glossary
+| Arabic | English                                                                   |
 | ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
+| مَقْبول  | acceptable, passing                                                       |
+| تَرتيب  | arrangement                                                               |
+| رَتَّبَ    | to arrange                                                                |
+| مُناسِب/ة  مْناسِب/ة|appropiate, suitable                                              |
+| صاحِب   |boyfriend                                                                  |
+|شَجَّعَ على ،يُشَجَّعو التَّشْجيع  |(to) cheer (on), encourage (to)                          |
+|بِنْت خال/ة |cousin (f, maternal)                                                     |
+|الثَّقافة | culture                                                                   |
+|قَرار    | decision                                                                  |
+|الطَّلاق   | divorce                                                                   |
+|التَعليم | education                                                                 |
+|خُطِبَت لِ  | (got) engaged to                                                          |
+|خَطيب/ة  | fiance/fiancee                                                            |
+|أموال ، مالِيّ/ة | financial                                                          |
+|تَعَرَّفَ على | (to) get to know                                                         |
+|حُكومة   | government                                                                |
+|تُراث    | heritage (literacy and cultural)                                          |
+|زَوْج     | husband                                                                   |
+|دعا، يَدعو| to invite                                                                |
+|الحُبٌ، أَحَبَّ، يُحِبّ | (to) love                                                          |
+|تعارُف   | making the mutual acquaintance (of), getting to know (one another)        |
+|مُتَزَوَّج   | married                                                                   |
+|المَعْرِب  | Morocco                                                                   |
+|حَماة    | mother in law                                                             |
+|حَفْلة    | party                                                                     |
+|فَتير    | poor                                                                      |
+|غَنِيّ     | rich                                                                      |
+|عُرس     | wedding                                                                   |
+|وَثِقَ "ب" أو "في"   | to trust, have confidence in                                    |
+|مَخزَن    | storehouse, warehouse                                                     |
+|        |Quran                                                                      |
+|        |marriage                                                                   |
+|وَلِيّ‎     |guardian                                                                   |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
 
-Right aligned columns
+![Disqus button "I want to install Disqus on my site"](/uploads/disqus-add-to-website.jpg)
 
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
+## Step 3
 
-## Links
+Sign-up or sign in
 
-[link text](https://danielkelly.io)
+## Step 4
 
-[link with title](https://danielkelly.io "title text!")
+Enter site name, Disqus URL and select a category. The Disqus URL name is your site’s name in your account where you can access all the required settings.
 
-Autoconverted link https://danielkelly.io
+## Step 5
 
-## Images
+Select a plan. There are several premium versions available, but don't worry the free one works just great too!
 
-![cat](/uploads/cat-1045782_1920.jpg)
+## Step 6
 
-## Subscript/SuperScript
+Disqus supports a number of different platforms but also works great in static sites like Awake. Scroll to the very bottom of the list and choose: "I don't see my platform listed, install manually with"
 
-* 19^th^
-* H\~2\~O
+![Disqus button "I don't see my platform listed, install manually with"](/uploads/disqus-platform-button.jpg)
 
-## Footnotes
+## Step 7
 
-Footnote 1 link\[^first].
+You can ignore everything on this page, as the Awake template has already configured it for you. All you have to do is find your "Site Short Name" (it's the first part of the url) and add it to `config/_siteConfig.js`.
 
-Footnote 2 link\[^second].
+Take it from here:
 
-Inline footnote^\[Text of inline footnote] definition.
+![Site Short Name in url](/uploads/disqus-site-short-name.jpg)
 
-Duplicated footnote reference\[^second].
-
-\[^first]: Footnote **can have markup**
+and put it here:
 
 ```
-and multiple paragraphs.
+// config/_siteConfig.js
+export default {
+...
+// Disqus
+  disqus: {
+    on: false,
+    loadingStrategy: 'button', // Options: onload, lazy, button
+    siteShortName: 'testing-bjsj2bjl0i'
+  },
+}
 ```
 
-\[^second]: Footnote text.
+## Step 8
 
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-:   Definition 1
-with lazy continuation.
-
-Term 2 with _inline markup_
-
-:   Definition 2
-
-```
-    { some code, part of Definition 2 }
-
-Third paragraph of definition 2.
-```
-
-_Compact style:_
-
-Term 1
-  ~ Definition 1
-
-Term 2
-  \~ Definition 2a
-  \~ Definition 2b
+That's it! You've got comments up and running on your site. Go checkout a post and see your new fancy comments section.

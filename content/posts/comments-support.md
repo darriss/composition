@@ -3,102 +3,173 @@ title: Arabic Glossary
 subtitle: Add Comments to Posts With Disqus
 category:
   - Third Party Integrations
-featureImage: /uploads/arabicwriting.jpg
+featureImage: /uploads/markup-hero.jpg
 ---
-## Arabic to English Glossary
-| Arabic | English                                                                   |
+Awake uses the awesome npm package [markdown-it ](https://github.com/markdown-it/markdown-it)by [Vitaly Puzrin](https://github.com/puzrin) to provide a wealth of markup options for your posts
+
+# h1 Heading
+
+## h2 Heading
+
+### h3 Heading
+
+#### h4 Heading
+
+##### h5 Heading
+
+###### h6 Heading
+
+## Horizontal Rules
+
+- - -
+
+## Typographic replacements
+
+(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+
+test.. test... test..... test?..... test!....
+
+!!!!!! ???? ,,  -- ---
+
+"Smartypants, double quotes" and 'single quotes'
+
+## Emphasis
+
+**This is bold text**
+
+**This is bold text**
+
+_This is italic text_
+
+_This is italic text_
+
+~~Strikethrough~~
+
+## Blockquotes
+
+> Blockquotes can also be nested...
+>
+> > ...by using additional greater-than signs right next to each other...
+> >
+> > > ...or with spaces between arrows.
+
+## Lists
+
+Unordered
+
+* Create a list by starting a line with `+`, `-`, or `*`
+* Sub-lists are made by indenting 2 spaces:
+  * Marker character change forces new list start:
+    * Ac tristique libero volutpat at
+    * Facilisis in pretium nisl aliquet
+    * Nulla volutpat aliquam velit
+* Very easy!
+
+Ordered
+
+1. Lorem ipsum dolor sit amet
+2. Consectetur adipiscing elit
+3. Integer molestie lorem at massa
+4. You can use sequential numbers...
+5. ...or keep all the numbers as `1.`
+
+Start numbering with offset:
+
+57. foo
+58. bar
+
+## Code
+
+Inline `code`
+
+Indented code
+
+```
+// Some comments
+line 1 of code
+line 2 of code
+line 3 of code
+```
+
+Block code "fences"
+
+```
+Sample text here...
+```
+
+## Tables
+
+| Option | Description                                                               |
 | ------ | ------------------------------------------------------------------------- |
-| مَقْبول  | acceptable, passing                                                       |
-| تَرتيب  | arrangement                                                               |
-| رَتَّبَ    | to arrange                                                                |
-| مُناسِب/ة  مْناسِب/ة|appropiate, suitable                                              |
-| صاحِب   |boyfriend                                                                  |
-|شَجَّعَ على ،يُشَجَّعو التَّشْجيع  |(to) cheer (on), encourage (to)                          |
-|بِنْت خال/ة |cousin (f, maternal)                                                     |
-|الثَّقافة | culture                                                                   |
-|قَرار    | decision                                                                  |
-|الطَّلاق   | divorce                                                                   |
-|التَعليم | education                                                                 |
-|خُطِبَت لِ  | (got) engaged to                                                          |
-|خَطيب/ة  | fiance/fiancee                                                            |
-|أموال ، مالِيّ/ة | financial                                                          |
-|تَعَرَّفَ على | (to) get to know                                                         |
-|حُكومة   | government                                                                |
-|تُراث    | heritage (literacy and cultural)                                          |
-|زَوْج     | husband                                                                   |
-|دعا، يَدعو| to invite                                                                |
-|الحُبٌ، أَحَبَّ، يُحِبّ | (to) love                                                          |
-|تعارُف   | making the mutual acquaintance (of), getting to know (one another)        |
-|مُتَزَوَّج   | married                                                                   |
-|المَعْرِب  | Morocco                                                                   |
-|حَماة    | mother in law                                                             |
-|حَفْلة    | party                                                                     |
-|فَتير    | poor                                                                      |
-|غَنِيّ     | rich                                                                      |
-|عُرس     | wedding                                                                   |
-|وَثِقَ "ب" أو "في"   | to trust, have confidence in                                    |
-|مَخزَن    | storehouse, warehouse                                                     |
-|        |Quran                                                                      |
-|        |marriage                                                                   |
-|وَلِيّ‎     |guardian                                                                   |
-|        |                                                                           |
-|        |                                                                           |
-|        |                                                                           |
-|        |                                                                           |
-|        |                                                                           |
-|        |                                                                           |
-|        |                                                                           |
-|        |                                                                           |
-|        |                                                                           |
-|        |                                                                           |
-|        |                                                                           |
-|        |                                                                           |
-|        |                                                                           |
-|        |                                                                           |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default.    |
+| ext    | extension to be used for dest files.                                      |
 
-![Disqus button "I want to install Disqus on my site"](/uploads/disqus-add-to-website.jpg)
+Right aligned columns
 
-## Step 3
+| Option | Description                                                               |
+| ------ | ------------------------------------------------------------------------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default.    |
+| ext    | extension to be used for dest files.                                      |
 
-Sign-up or sign in
+## Links
 
-## Step 4
+[link text](https://danielkelly.io)
 
-Enter site name, Disqus URL and select a category. The Disqus URL name is your site’s name in your account where you can access all the required settings.
+[link with title](https://danielkelly.io "title text!")
 
-## Step 5
+Autoconverted link https://danielkelly.io
 
-Select a plan. There are several premium versions available, but don't worry the free one works just great too!
+## Images
 
-## Step 6
+![cat](/uploads/cat-1045782_1920.jpg)
 
-Disqus supports a number of different platforms but also works great in static sites like Awake. Scroll to the very bottom of the list and choose: "I don't see my platform listed, install manually with"
+## Subscript/SuperScript
 
-![Disqus button "I don't see my platform listed, install manually with"](/uploads/disqus-platform-button.jpg)
+* 19^th^
+* H\~2\~O
 
-## Step 7
+## Footnotes
 
-You can ignore everything on this page, as the Awake template has already configured it for you. All you have to do is find your "Site Short Name" (it's the first part of the url) and add it to `config/_siteConfig.js`.
+Footnote 1 link\[^first].
 
-Take it from here:
+Footnote 2 link\[^second].
 
-![Site Short Name in url](/uploads/disqus-site-short-name.jpg)
+Inline footnote^\[Text of inline footnote] definition.
 
-and put it here:
+Duplicated footnote reference\[^second].
+
+\[^first]: Footnote **can have markup**
 
 ```
-// config/_siteConfig.js
-export default {
-...
-// Disqus
-  disqus: {
-    on: false,
-    loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'testing-bjsj2bjl0i'
-  },
-}
+and multiple paragraphs.
 ```
 
-## Step 8
+\[^second]: Footnote text.
 
-That's it! You've got comments up and running on your site. Go checkout a post and see your new fancy comments section.
+### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
+
+Term 1
+
+:   Definition 1
+with lazy continuation.
+
+Term 2 with _inline markup_
+
+:   Definition 2
+
+```
+    { some code, part of Definition 2 }
+
+Third paragraph of definition 2.
+```
+
+_Compact style:_
+
+Term 1
+  ~ Definition 1
+
+Term 2
+  \~ Definition 2a
+  \~ Definition 2b
