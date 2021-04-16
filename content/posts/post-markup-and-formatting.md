@@ -1,19 +1,11 @@
 ---
-title: Light CSS Footprint
-subtitle: All the Tags You Need to Make Clean and Expressive Posts
+title: Literature Review
+subtitle:
 category:
   - About Awake
 featureImage: /uploads/purge-css-hero.jpg
 ---
-Typically the convenience of a CSS framework like Bulma comes at the cost of sending loads of unused css to the browser increasing load times and hindering user experience. So just don't use Bulma (or Bootstrap, Tailwind, or otherwise) right? No, that can't be the answer. These frameworks add to the designer's experience and ability to quickly turn around a finished design.
+## Chapter 2
+While researching various sources, many scholars have argued similar, opposing, and contradictory ideas surrounding arranged marriage. These perspectives varied due to scholars coming from different backgrounds, countries, and fields of study. While some sources related more to the topic than others, they all were important in unraveling the main factors involved in arranged marriage, or traditional marriage in some cases. The multiple perspectives opened up more conversations than expected, stating the setbacks and positive outcomes of arranged marriage, as well as the actors involved in this practice. Scholars with differing backgrounds addressed the agency, consanguinity, age, financial, cultural aspects of arranged marriage, along with the power dynamics that can form as a result. Based on various articles and chapters, arranged marriage is not one thing, although a few scholars think so. While scholars held opposing opinions, all of them had agreed on the significance of one common factor. The commonality between the sources was the important role of education within this practice. Most scholars would agree that the role education plays in arranged marriages is extremely critical when analyzing the practice from multiple lenses, as well as the factors of age, financial status, agency, consanguinity, and the overall pressures of marriage.
 
-Enter [Purge CSS](https://www.purgecss.com/). Purge CSS crawls through your html and css comparing them and removing any unused selectors from your stylesheets at build time so that they can be as slim as possible. So all those useful classes that Bulma has but you just aren't using right now won't slow down your site. And then maybe you decide to use one of them in the future. BOOM, it's there next time you compile with no thought on your part.
-
-Since Awake is built on the JAM Stack, it can easily take advantage of this technology and so Purge CSS is baked right in. It's that simple. Use Bulma to your hearts content without the bloat.
-
-
-
-# Caveats
-
-There are some caveats to Purge CSS especially around dynamically created classes. Since these classes aren't fully fleshed out in the .vue files, Purge CSS doesn't know they exist and therefore will strip out their  corresponding css. The fix is pretty simple though, Purge CSS allows us to whitelist classes that should never be purged whether they are found in the html or not. The whitelisting process is described in full in the [Purge CSS docs](https://www.purgecss.com/whitelisting). You can set the `whitelist` option as well as any other purge css option in `config/build.js`.
-Sometimes when dev mode and adding markup that uses classes that have not previously been in use, you must restart dev mode for Purge CSS to pick up on the change.
+[Literature Review](https://docs.google.com/document/d/1YCfVA_WuA9yMWZJBlTWaV866MCYve55CwpdYb6iHom0/edit?usp=sharing)

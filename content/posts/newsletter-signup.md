@@ -1,40 +1,45 @@
 ---
-title: Newsletter Signup
-subtitle: Awake Integrates with Mailchimp for Easy Newsletter Management
+title: Method of Approach
+subtitle: 
 category:
   - Third Party Integrations
-author: Daniel Kelly
-date: 2019-08-01T03:49:49.295Z
 featureImage: /uploads/mailchimp.jpg
 ---
-You're publishing great content! Make sure people can get it easily right in their inbox with Awake's ready to go Mailchimp integration. Follow these instructions to get your newsletter up and running
 
-## 1. Signup with Mailchimp
+## Method of Approach
 
-If you don't already have a mailchimp account, head on over to [mailchimp.com](https://mailchimp.com) and sign up (don't worry they have free tiers that will give you all you probably need).
-
-## 2. Create a New Campaign
-
-Go to "Campaigns" in the main navigation of the Mailchimp dashboard and then click the "Create Campaign" button on the top right.
-
-## 3. Start Signup Form
-
-From the modal overlay that appears choose "Signup Form", then click "Begin" under "Embedded Form"
-
-![Mailchimp create signup form](/uploads/screen-shot-2019-08-01-at-1.03.08-pm.png)
-
-## 4. Get Form Action
-
-Under "Copy/paste onto your site" you'll see the markup  for the newsletter form. Just copy the form action value from the form
-
-![copy form action from mailchimp](/uploads/screen-shot-2019-08-01-at-1.05.09-pm.png)
-
-## 5. Add the Action to the Awake Site Configuration
+Reading, understanding, and analyzing the literature surrounding marriage in Morocco has not only provided context for the relationship between Moroccan education and marriage, but also narrowed down the variables to pull for further exploration. While understanding the history, stories, and written works surrounding Moroccan marriage is essential for a holistic analysis, examining the numerical trends in the Moroccan population is also telling of the various impacts and factors that weigh in on the formation of marriage. The qualitative data that’s been used thus far has been extremely helpful, however did not seem sufficient enough to fully understand the relationship between education and marriage in Morocco. Many scholars continuously implied that it was a given that arranged marriages were more common among less educated women, however this assumption did not seem obvious to me. This is why I decided to conduct my own research by gathering data, and implementing its automated analysis, then displaying my findings on a website that is accessible to everyone. These trends were explored using the data from the World Bank, the United Nations, and a few other databases. Analyzing a data driven perspective by discovering the relationship between variables and visualizing data trends and dependencies was helpful in understanding how education plays a part in marriage. After preliminary exploration of data using Python programming languages, the relationship between education and marriage proved to be more complex than previously expected.
 
 ```
-// Can be the form action on a mail chimp form, a hubspot form,
-// or any other url you want to post the form data tomailchimp: {
-    on: true,
-    formAction:'enter url here'
-}
+x = np.arange(len(labels))  # the label locations
+width = 0.35  # the width of the bars
+
+fig, ax = plt.subplots()
+rects1 = ax.bar(x - width/2, casa_means, width, label='Casablanca')
+rects2 = ax.bar(x + width/2, tan_means, width, label='Tangier')
+
+# Add some text for labels, title and custom x-axis tick labels, etc.
+ax.set_ylabel('Percentage (%)')
+ax.set_title('Circumstance of Meeting in 2011')
+ax.set_xticks(x)
+ax.set_xticklabels(labels)
+ax.legend()
+
+fig.tight_layout()
+
+plt.show()
+<--! All posts in grid with 3 per row lazy loaded until no more-->
+<posts-grid />
+
+<--! 3 posts in grid in single row -->
+<posts-grid :number="3" />
+
+<--! 3 posts in grid in single row in category-1 (exactly how related posts at end of single post is accomplished) -->
+<posts-grid :number="3" :category="['category-1']" />
+
+<--! All categories in grid with 3 per row lazy loaded until no more-->
+<categories-grid />
+
+<--! etc -->
 ```
+[Method of Approach](https://docs.google.com/document/d/169YV4Vi_7xaKhsxBiOM-DDUpm_MneLld01Rw9ueWOwY/edit?usp=sharing)

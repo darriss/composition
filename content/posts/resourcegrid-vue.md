@@ -1,36 +1,12 @@
 ---
-title: ResourceGrid.vue
-subtitle: Easily Display Grid of Posts/Categories Throughout the Site
+title: History and Cultural Significance of Marriage in Morocco
+subtitle: Chapter 1
 category:
   - About Awake
-author: Daniel Kelly
-date: 2019-08-02T04:27:56.800Z
-featureImage: /uploads/resource-grid-hero.jpg
+featureImage: /uploads/historyMar.jpeg
 ---
-The `ResourceGrid` powers the grid display of both posts and categories in the Awake template. It's a powerful, fast, and flexible component to grab a grid of any size or content when you need it.
+##History of Marriage in Morocco
 
-| Prop     | Description                                          | Type   | Default           |
-| -------- | ---------------------------------------------------- | ------ | ----------------- |
-| perRow   | how many resources to displayed per row              | Number | 3                 |
-| number   | total number of resources to display                 | Number | all (lazy loaded) |
-| category | for posts filters posts only in supplied category(s) | Array  | \[]               |
-| resource | the resource to be retrieved and displayed           | String | Required          |
+Rites of passage that people consider valuable, traditional, and respectable differs between communities. Every country has an unspoken road map for when education, marriage, and family planning should begin. While some countries place a higher value on some social benchmarks than others, marriage is a tradition that is for the most part, universal. While marriage is overall a universal practice, the process of finding a spouse is specific to each culture. In Moroccan culture, finding a spouse is not only expected, but widely encouraged. Throughout the few months I spent in Morocco, I witnessed first hand the cultural significance of marriage, seeing how varying communities in Morocco practiced and valued it. The most apparent difference I saw was how Moroccan college students viewed marriage, compared to how women of the same age range in rural areas viewed marriage. This was a difference I felt was worthy of exploration. This composition will answer the question of how education impacts marital trends and practices in Morocco through literature review, qualitative, and quantitative analysis.
 
-There are 2 simple wrappers built around the `ResourceGrid` for easily displaying a categories grid or a posts grid, easily enough they are `CategoriesGrid` and `PostsGrid`.
-
-## Examples
-```
-<--! All posts in grid with 3 per row lazy loaded until no more-->
-<posts-grid />
-
-<--! 3 posts in grid in single row -->
-<posts-grid :number="3" />
-
-<--! 3 posts in grid in single row in category-1 (exactly how related posts at end of single post is accomplished) -->
-<posts-grid :number="3" :category="['category-1']" />
-
-<--! All categories in grid with 3 per row lazy loaded until no more-->
-<categories-grid />
-
-<--! etc -->
-```
+[Chapter One](https://docs.google.com/document/d/1mW_ArdgvD6usF7jdI8Iqjih58FIUQ2Odbom22ak-Hgo/edit?usp=sharing)

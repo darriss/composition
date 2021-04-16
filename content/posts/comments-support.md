@@ -113,6 +113,13 @@ Right aligned columns
 | engine | engine to be used for processing templates. Handlebars is the default.    |
 | ext    | extension to be used for dest files.                                      |
 
+| Prop     | Description                                          | Type   | Default           |
+| -------- | ---------------------------------------------------- | ------ | ----------------- |
+| perRow   | how many resources to displayed per row              | Number | 3                 |
+| number   | total number of resources to display                 | Number | all (lazy loaded) |
+| category | for posts filters posts only in supplied category(s) | Array  | \[]               |
+| resource | the resource to be retrieved and displayed           | String | Required          |
+
 ## Links
 
 [link text](https://danielkelly.io)
@@ -173,3 +180,19 @@ Term 1
 Term 2
   \~ Definition 2a
   \~ Definition 2b
+
+```
+<--! All posts in grid with 3 per row lazy loaded until no more-->
+<posts-grid />
+
+<--! 3 posts in grid in single row -->
+<posts-grid :number="3" />
+
+<--! 3 posts in grid in single row in category-1 (exactly how related posts at end of single post is accomplished) -->
+<posts-grid :number="3" :category="['category-1']" />
+
+<--! All categories in grid with 3 per row lazy loaded until no more-->
+<categories-grid />
+
+<--! etc -->
+```
