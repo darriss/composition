@@ -1,5 +1,5 @@
 ---
-title: Arabic Glossary
+title: Post Markup and Formatting
 subtitle: Add Comments to Posts With Disqus
 category:
   - Third Party Integrations

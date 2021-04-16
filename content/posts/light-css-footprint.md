@@ -1,21 +1,104 @@
 ---
-title: Light CSS Footprint
+title: Arabic Abstract and Glossary
 subtitle: Purge CSS Bundles Only the Required CSS
 category:
   - About Awake
-author: Daniel Kelly
-date: 2019-07-29T17:30:16.858Z
-featureImage: /uploads/purge-css-hero.jpg
+featureImage: /uploads/arabicwriting.jpg
 ---
-Typically the convenience of a CSS framework like Bulma comes at the cost of sending loads of unused css to the browser increasing load times and hindering user experience. So just don't use Bulma (or Bootstrap, Tailwind, or otherwise) right? No, that can't be the answer. These frameworks add to the designer's experience and ability to quickly turn around a finished design. 
+## Arabic to English Glossary
+| Arabic | English                                                                   |
+| ------ | ------------------------------------------------------------------------- |
+| مَقْبول  | acceptable, passing                                                       |
+| تَرتيب  | arrangement                                                               |
+| رَتَّبَ    | to arrange                                                                |
+| مُناسِب/ة  مْناسِب/ة|appropiate, suitable                                              |
+| صاحِب   |boyfriend                                                                  |
+|شَجَّعَ على ،يُشَجَّعو التَّشْجيع  |(to) cheer (on), encourage (to)                          |
+|بِنْت خال/ة |cousin (f, maternal)                                                     |
+|الثَّقافة | culture                                                                   |
+|قَرار    | decision                                                                  |
+|الطَّلاق   | divorce                                                                   |
+|التَعليم | education                                                                 |
+|خُطِبَت لِ  | (got) engaged to                                                          |
+|خَطيب/ة  | fiance/fiancee                                                            |
+|أموال ، مالِيّ/ة | financial                                                          |
+|تَعَرَّفَ على | (to) get to know                                                         |
+|حُكومة   | government                                                                |
+|تُراث    | heritage (literacy and cultural)                                          |
+|زَوْج     | husband                                                                   |
+|دعا، يَدعو| to invite                                                                |
+|الحُبٌ، أَحَبَّ، يُحِبّ | (to) love                                                          |
+|تعارُف   | making the mutual acquaintance (of), getting to know (one another)        |
+|مُتَزَوَّج   | married                                                                   |
+|المَعْرِب  | Morocco                                                                   |
+|حَماة    | mother in law                                                             |
+|حَفْلة    | party                                                                     |
+|فَتير    | poor                                                                      |
+|غَنِيّ     | rich                                                                      |
+|عُرس     | wedding                                                                   |
+|وَثِقَ "ب" أو "في"   | to trust, have confidence in                                    |
+|مَخزَن    | storehouse, warehouse                                                     |
+|        |Quran                                                                      |
+|        |marriage                                                                   |
+|وَلِيّ‎     |guardian                                                                   |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
+|        |                                                                           |
 
-Enter [Purge CSS](https://www.purgecss.com/). Purge CSS crawls through your html and css comparing them and removing any unused selectors from your stylesheets at build time so that they can be as slim as possible. So all those useful classes that Bulma has but you just aren't using right now won't slow down your site. And then maybe you decide to use one of them in the future. BOOM, it's there next time you compile with no thought on your part. 
+![Disqus button "I want to install Disqus on my site"](/uploads/disqus-add-to-website.jpg)
 
-Since Awake is built on the JAM Stack, it can easily take advantage of this technology and so Purge CSS is baked right in. It's that simple. Use Bulma to your hearts content without the bloat.
+## Step 3
 
+Sign-up or sign in
 
+## Step 4
 
-# Caveats
+Enter site name, Disqus URL and select a category. The Disqus URL name is your site’s name in your account where you can access all the required settings.
 
-There are some caveats to Purge CSS especially around dynamically created classes. Since these classes aren't fully fleshed out in the .vue files, Purge CSS doesn't know they exist and therefore will strip out their  corresponding css. The fix is pretty simple though, Purge CSS allows us to whitelist classes that should never be purged whether they are found in the html or not. The whitelisting process is described in full in the [Purge CSS docs](https://www.purgecss.com/whitelisting). You can set the `whitelist` option as well as any other purge css option in `config/build.js`.
-Sometimes when dev mode and adding markup that uses classes that have not previously been in use, you must restart dev mode for Purge CSS to pick up on the change. 
+## Step 5
+
+Select a plan. There are several premium versions available, but don't worry the free one works just great too!
+
+## Step 6
+
+Disqus supports a number of different platforms but also works great in static sites like Awake. Scroll to the very bottom of the list and choose: "I don't see my platform listed, install manually with"
+
+![Disqus button "I don't see my platform listed, install manually with"](/uploads/disqus-platform-button.jpg)
+
+## Step 7
+
+You can ignore everything on this page, as the Awake template has already configured it for you. All you have to do is find your "Site Short Name" (it's the first part of the url) and add it to `config/_siteConfig.js`.
+
+Take it from here:
+
+![Site Short Name in url](/uploads/disqus-site-short-name.jpg)
+
+and put it here:
+
+```
+// config/_siteConfig.js
+export default {
+...
+// Disqus
+  disqus: {
+    on: false,
+    loadingStrategy: 'button', // Options: onload, lazy, button
+    siteShortName: 'testing-bjsj2bjl0i'
+  },
+}
+```
+
+## Step 8
+
+That's it! You've got comments up and running on your site. Go checkout a post and see your new fancy comments section.
