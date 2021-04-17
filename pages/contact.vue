@@ -43,7 +43,7 @@
           </div>
           <div class="tile is-parent is-8">
             <article class="tile is-child box">
-              <contact-form />
+              <h3><center>Resources</center></h3>
             </article>
           </div>
         </div>
