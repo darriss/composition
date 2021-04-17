@@ -5,4 +5,10 @@ category:
   - About Awake
 featureImage: /uploads/getting-started-hero.jpg
 ---
-## Results
+# Results
+
+## Bar Graph Displaying How Spouses Meet
+![Bar Graph](/uploads/MarBarGraph.png)
+
+##Line Graph Comparing Rate of Education to Rate of Marriage
+![Bar Graph](/uploads/MarLineGraph1.png)
