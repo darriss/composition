@@ -4,7 +4,6 @@
       title="About the Creator"
       image="/uploads/IMG-4126.jpg"
     ></site-hero>
-    <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
           <h3><center>Samantha Darris</center></h3>
@@ -26,7 +25,7 @@
 
         </div>
       </template>
-    </main-section>
+
   </div>
 </template>
 <script>
