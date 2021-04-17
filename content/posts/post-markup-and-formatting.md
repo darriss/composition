@@ -3,7 +3,7 @@ title: Literature Review
 subtitle:
 category:
   - About Awake
-featureImage: /uploads/bookMar.jpeg
+featureImage: /uploads/booksMar.jpeg
 ---
 ## Chapter 2
 
