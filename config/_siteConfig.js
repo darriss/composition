@@ -23,13 +23,13 @@ export default {
       link: '/about'
     },
     {
-      name: 'Contact',
+      name: 'Resources',
       link: '/contact'
     },
-    {
+  /**  {
       name: 'Categories',
       link: '/categories'
-    },
+    }**/,
     {
       name: 'Github Repo',
       link: 'https://github.com/darriss/composition',
@@ -54,7 +54,7 @@ export default {
   },
 
   // Disqus
-  
+
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button

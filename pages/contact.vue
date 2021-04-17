@@ -1,7 +1,7 @@
 <template>
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
-      title="Contact Us"
+      title="Resources"
       subtitle="Example Contact Page"
       image="/uploads/contact-hero.jpg"
     ></site-hero>
