@@ -1,9 +1,9 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
-    <site-hero
+    <site-hero>
       title="About the Creator"
       image="/uploads/IMG-4126.jpg"
-    ></site-hero>
+    </site-hero>
       <template v-slot:default>
         <div class="content">
           <h3><center>Samantha Darris</center></h3>
