@@ -51,14 +51,3 @@
     </main-section>
   </div>
 </template>
-<script>
-import ContactForm from '~/components/ContactForm'
-export default {
-  head() {
-    return {
-      title: `Contact | ${this.$siteConfig.siteName}`
-    }
-  },
-  components: { ContactForm }
-}
-</script>
