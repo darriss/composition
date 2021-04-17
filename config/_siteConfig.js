@@ -26,10 +26,10 @@ export default {
       name: 'Resources',
       link: '/contact'
     },
-  /**  {
+    {
       name: 'Categories',
       link: '/categories'
-    }**/,
+    },
     {
       name: 'Github Repo',
       link: 'https://github.com/darriss/composition',
