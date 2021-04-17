@@ -1,8 +1,8 @@
 ---
-title: Arabic Abstract and Glossary
+title: Results
 subtitle: Purge CSS Bundles Only the Required CSS
 category:
   - About Awake
-featureImage: /uploads/arabicwriting.jpg
+featureImage: /uploads/getting-started-hero.jpg
 ---
 ## Results
