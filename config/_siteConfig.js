@@ -27,10 +27,6 @@ export default {
       link: '/contact'
     },
     {
-      name: 'Categories',
-      link: '/categories'
-    },
-    {
       name: 'Github Repo',
       link: 'https://github.com/darriss/composition',
       target: '_blank'

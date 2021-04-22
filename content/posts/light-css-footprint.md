@@ -12,3 +12,6 @@ featureImage: /uploads/getting-started-hero.jpg
 
 ### Line Graph Comparing Rate of Education to Rate of Marriage
 ![Bar Graph](/uploads/MarLineGraph1.png)
+
+### Statistics Results
+![Stats](/uploads/stats.png)
