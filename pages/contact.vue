@@ -69,7 +69,6 @@
 
                 Zoglin, Katie. “Morocco's Family Code: Improving Equality for Women.” Human Rights
                   Quarterly, vol. 31, no. 4, 2009, pp. 964–984. JSTOR, www.jstor.org/stable/40389983.
-
               </p>
             </article>
           </div>
