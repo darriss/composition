@@ -31,7 +31,7 @@
                   Latest Posts
                   <image src="/uploads/IMG-4126.jpg">
                 </h3>
-                <posts-grid :per-row="1" :number="2" />
+                <posts-grid src="/uploads/IMG-4126.jpg" :per-row="1" :number="2" />
               </template>
             </main-section>
           </div>
