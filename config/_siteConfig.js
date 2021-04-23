@@ -24,7 +24,7 @@ export default {
     },
     {
       name: 'Resources',
-      link: '/resources'
+      link: '/contact'
     },
     {
       name: 'Github Repo',
