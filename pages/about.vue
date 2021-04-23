@@ -29,8 +29,8 @@
               <template v-slot:sidebar>
                 <h3 class="subtitle is-4">
                   Latest Posts
+                  <image src="/uploads/IMG-4126.jpg">
                 </h3>
-                <image src="/uploads/IMG-4126.jpg">
                 <posts-grid :per-row="1" :number="2" />
               </template>
             </main-section>
