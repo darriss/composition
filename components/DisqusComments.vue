@@ -1,4 +1,4 @@
-<template>
+<!--<template>
   <div v-if="$siteConfig.disqus.on" class="comments-wrapper section">
     <a
       v-if="$siteConfig.disqus.loadingStrategy === 'button' && !displayed"
@@ -19,9 +19,9 @@
       :shortname="$siteConfig.disqus.siteShortName"
       :identifier="identifier"
     />
-
+-->
     <!-- Warning to Provide Disqus Site Short Name -->
-    <div
+<!--    <div
       v-if="$siteConfig.disqus.on && !$siteConfig.disqus.siteShortName"
       class="notification is-danger"
     >
@@ -41,4 +41,4 @@ export default {
     }
   }
 }
-</script>
+</script> -->
