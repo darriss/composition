@@ -20,16 +20,66 @@
           </center></p>
 
           <quote-card />
-            <strong>Alias aut facere harum ipsam</strong>
-          </p>
         </div>
 
+                <div class="tile is-ancestor">
+                  <div class="tile is-parent">
+                    <article class="tile is-child box">
+                      <p class="title">
+                        Cool Stuff We Do
+                      </p>
+                      <p class="subtitle">
+                        Sooo Cool
+                      </p>
+                      <figure class="image is-1by1">
+                        <opti-image width="500" height="500" />
+                      </figure>
+                    </article>
+                  </div>
+                  <div class="tile is-parent">
+                    <article class="tile is-child box">
+                      <p class="title">
+                        Other Cool Things
+                      </p>
+                      <p class="subtitle">
+                        Just as cool
+                      </p>
+                      <figure class="image is-1by1">
+                        <opti-image width="500" height="500" />
+                      </figure>
+                    </article>
+                  </div>
+                  <div class="tile is-parent">
+                    <article class="tile is-child box">
+                      <p class="title">
+                        All the cool
+                      </p>
+                      <p class="subtitle">
+                        that is all
+                      </p>
+                      <figure class="image is-1by1">
+                        <opti-image width="500" height="500" />
+                      </figure>
+                    </article>
+                  </div>
+                </div>
+              </template>
+
+              <template v-slot:sidebar>
+                <h3 class="subtitle is-4">
+                  Latest Posts
+                </h3>
+                <posts-grid :per-row="1" :number="2" />
+              </template>
+            </main-section>
+          </div>
+        </template>
         </div>
       </template>
     </main-section>
-  </div>
+
 </template>
-<script>
+<!--<script>
 import QuoteCard from '~/components/cards/QuoteCard'
 export default {
   head() {
@@ -39,4 +89,4 @@ export default {
   },
   components: { QuoteCard }
 }
-</script>
+</script> -->
