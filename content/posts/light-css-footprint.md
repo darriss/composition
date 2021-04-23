@@ -1,6 +1,6 @@
 ---
 title: Results
-subtitle: Purge CSS Bundles Only the Required CSS
+subtitle: What are the impacts of education on marriage in Morocco?
 category:
   - About Awake
 featureImage: /uploads/results.jpg

@@ -20,7 +20,7 @@
     </div>
   </div>
 </template>
-<script>
+<!--<script>
 export default {
   name: 'SiteLogo',
   data() {
@@ -63,4 +63,4 @@ export default {
     }
   }
 }
-</style>
+</style>-->
