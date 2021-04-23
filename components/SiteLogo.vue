@@ -1,7 +1,7 @@
 <template>
   <div class="logo-wrapper">
 
-    <!--<div
+    <div
       :class="{
         'logo-inner': true,
         blink: blinking
@@ -10,15 +10,14 @@
       <img
         v-for="x in frames"
         :key="x"
-        :src="`/logo-frames/logo-f${x - 1}.svg`"
+        :src="`/logo-frames/lovearab.jpg`"
       />
       <img
         v-for="x in frames"
         :key="`${x}-r`"
-        :src="`/logo-frames/logo-f${frames - x}.svg`"
+        :src="`/logo-frames/lovearab.jpg`"
       />
-    </div>-->
-    <img src="/static/lovearab.jpg"
+    </div>
   </div>
 </template>
 <script>
