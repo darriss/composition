@@ -3,7 +3,7 @@ title: Method of Approach
 subtitle:
 category:
   - Third Party Integrations
-featureImage: /uploads/code.jpg
+featureImage: assets/uploads/code.jpg
 ---
 
 ## Method of Approach

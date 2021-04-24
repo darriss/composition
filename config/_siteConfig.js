@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Marriage in Morocco',
-  tagline: 'Exploring How Education Impacts Marriage',
+  tagline: 'Exploring How Increased Education Impacts Moroccan Marital Practices',
   featureImage: '/uploads/aboutpic.png',
   logo: '/logo-frames/Marheart.jpg', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {

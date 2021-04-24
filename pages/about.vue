@@ -10,7 +10,7 @@
           <h3><center>Samantha Darris</center></h3>
 
           <p><center>
-            Samantha Darris is from New York City and attends Allegheny College.
+            Samantha Darris is from New York City in the Class of 2021 at Allegheny College.
             While she has always enjoyed computer science, throughout college she
             grew a passion for cultural anthropology, social justice, and transnational
             feminism. Her passion developed when she studied abroad in Morocco from

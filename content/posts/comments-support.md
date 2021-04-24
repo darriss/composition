@@ -1,9 +1,9 @@
 ---
-title: Post Markup and Formatting
+title: Conclusion
 subtitle: Add Comments to Posts With Disqus
 category:
   - Third Party Integrations
-featureImage: /uploads/markup-hero.jpg
+featureImage: /uploads/aboutpic.png
 ---
 Awake uses the awesome npm package [markdown-it ](https://github.com/markdown-it/markdown-it)by [Vitaly Puzrin](https://github.com/puzrin) to provide a wealth of markup options for your posts
 

@@ -8,9 +8,9 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="tile is-ancestor">
-          <div class="tile is-parent">
+        <!--  <div class="tile is-parent">
             <article class="tile is-child box">
-          <!--    <p class="title">
+              <p class="title">
                 Hello!
               </p>
               <p class="subtitle">
@@ -23,7 +23,7 @@
                     require('~/assets/uploads/contact-person.jpg').srcSet
                   "
                 />
-              </figure> -->
+              </figure>
               <br />
               <div class="content">
                 <p>
@@ -34,7 +34,7 @@
                 </p>
               </div>
             </article>
-          </div>
+          </div> -->
           <div class="tile is-parent is-8">
             <article class="tile is-child box">
               <h3><center>Resources</center></h3>
