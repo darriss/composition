@@ -12,7 +12,7 @@ export default {
   siteName: 'Marriage in Morocco',
   tagline: 'Exploring How Education Impacts Marriage',
   featureImage: '/uploads/aboutpic.png',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  logo: '/logo-frames/Marheart.jpg', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID

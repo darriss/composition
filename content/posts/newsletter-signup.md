@@ -3,7 +3,7 @@ title: Method of Approach
 subtitle:
 category:
   - Third Party Integrations
-featureImage: /uploads/mailchimp.jpg
+featureImage: /uploads/purge-css-hero.jpg
 ---
 
 ## Method of Approach
