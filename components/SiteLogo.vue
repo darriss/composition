@@ -10,12 +10,12 @@
       <img
         v-for="x in frames"
         :key="x"
-        :src="`/logo-frames/lovearab.jpg`"
+        :src="`/logo-frames/Marheart.jpg`"
       />
       <img
         v-for="x in frames"
         :key="`${x}-r`"
-        :src="`/logo-frames/lovearab.jpg`"
+        :src="`/logo-frames/Marheart.jpg`"
       />
     </div>
   </div>
@@ -37,7 +37,7 @@ export default {
     }, 1000)
   }
 }
-</script>
+</script>-->
 <style lang="scss">
 @keyframes logoBlink {
   100% {
@@ -63,4 +63,4 @@ export default {
     }
   }
 }
-</style>-->
+</style>
