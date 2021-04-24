@@ -55,7 +55,7 @@ export default {
     img {
       display: block;
       height: 40px;
-      margin: 5px;
+      margin: 50px;
       max-height: initial;
     }
     &.blink {
