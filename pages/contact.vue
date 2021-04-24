@@ -35,7 +35,7 @@
               </div>
             </article>
           </div> -->
-          <div class="tile is-parent is-8">
+        <center>  <div class="tile is-parent is-8">
             <article class="tile is-child box">
               <h3><center>Resources</center></h3>
               <p>
@@ -138,7 +138,7 @@
               <br />
 
             </article>
-          </div>
+          </div> <center/>
         </div>
       </template>
     </main-section>
