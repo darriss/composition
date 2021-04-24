@@ -1,6 +1,6 @@
 ---
 title: Arabic Abstract and Glossary
-subtitle: Get Up and Running with Awake
+subtitle:
 category:
   - About Awake
 featureImage: /uploads/arabicwriting.jpg
