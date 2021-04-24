@@ -20,7 +20,7 @@
     </div>
   </div>
 </template>
-<!--<script>
+<script>
 export default {
   name: 'SiteLogo',
   data() {
@@ -37,7 +37,7 @@ export default {
     }, 1000)
   }
 }
-</script>-->
+</script>
 <style lang="scss">
 @keyframes logoBlink {
   100% {
