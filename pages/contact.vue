@@ -10,7 +10,7 @@
         <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
-              <p class="title">
+          <!--    <p class="title">
                 Hello!
               </p>
               <p class="subtitle">
@@ -23,7 +23,7 @@
                     require('~/assets/uploads/contact-person.jpg').srcSet
                   "
                 />
-              </figure>
+              </figure> -->
               <br />
               <div class="content">
                 <p>
