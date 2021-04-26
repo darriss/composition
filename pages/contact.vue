@@ -8,34 +8,7 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="tile is-ancestor">
-        <!--  <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                Hello!
-              </p>
-              <p class="subtitle">
-                What can I do for you?
-              </p>
-              <figure class="image is-1by1 ">
-                <opti-image
-                  :src="require('~/assets/uploads/contact-person.jpg').src"
-                  :srcset="
-                    require('~/assets/uploads/contact-person.jpg').srcSet
-                  "
-                />
-              </figure>
-              <br />
-              <div class="content">
-                <p>
-                  <strong>
-                    Edit this page in<code>/pages/contact.vue</code>to fit your
-                    needs.
-                  </strong>
-                </p>
-              </div>
-            </article>
-          </div> -->
-          <div class="tile is-parent is-8">
+      <center>    <div class="tile is-parent is-8">
             <article class="tile is-child box">
               <h3><center>Resources</center></h3>
               <p>
@@ -155,7 +128,7 @@
               <br />
 
             </article>
-          </div>
+          </div> <center/>
         </div>
       </template>
     </main-section>
