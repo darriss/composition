@@ -1,6 +1,6 @@
 ---
 title: History and Cultural Significance of Marriage in Morocco
-subtitle: Chapter 1
+subtitle:
 category:
   - About Awake
 featureImage: /uploads/weddingMar.jpeg

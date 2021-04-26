@@ -18,9 +18,6 @@
             affairs, feminism, and marriage. She left Morocco with many questions,
             and looked for answers in this research project.
           </center></p>
-          <img src= "/assets/uploads/IMG-4923.JPG"/>
-          <img src= "/assets/uploads/IMG-5749 (1).JPG"/>
-          <img src= "/assets/uploads/IMG-6599"/>
           <quote-card />
         </div>
 
@@ -31,7 +28,6 @@
               <template v-slot:sidebar>
                 <h3 class="subtitle is-4">
                   Latest Posts
-                  <image src="/uploads/IMG-4126.jpg">
                 </h3>
                 <posts-grid src="/uploads/IMG-4126.jpg" :per-row="1" :number="2" />
               </template>
