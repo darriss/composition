@@ -108,6 +108,11 @@
               <p/>
               <br />
               <p>
+                Tayebi, Naeimeh, et al. “The Prevalence of Congenital Malformations and Its Correlation with Consanguineous Marriages.” Oman Medical
+                  Journal, OMJ, Jan. 2010, www.ncbi.nlm.nih.gov/pmc/articles/PMC3215379/.
+              <p/>
+              <br/>
+              <p>
                 University of Central ARKANSAS: UCA. (n.d.). Retrieved
                   April 13, 2021, from https://uca.edu/politicalscience/dadm-project/middle-eastnorth-africapersian-gulf-region/francemorocco-1930-1956/
               <p/>
