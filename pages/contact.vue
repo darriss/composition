@@ -2,7 +2,7 @@
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
       title="Resources"
-      subtitle="Example Contact Page"
+      subtitle=
       image="/uploads/bookMar.jpeg"
     ></site-hero>
     <main-section theme="sidebar-right">
@@ -35,7 +35,7 @@
               </div>
             </article>
           </div> -->
-        <center>  <div class="tile is-parent is-8">
+          <div class="tile is-parent is-8">
             <article class="tile is-child box">
               <h3><center>Resources</center></h3>
               <p>
@@ -76,6 +76,10 @@
               </p>
               <br />
               <p>
+                “Indicators.” World Health Organization, World Health Organization, 2018, www.who.int/data/gho/data/indicators.
+              <p/>
+              <br/>
+              <p>
                 Khurshid, Ayesha. "Love marriage or arranged marriage? Choice, rights, and empowerment for educated Muslim women from rural and
                   low-income Pakistani communities." Compare: A Journal of Comparative and International Education (2018).
               <p/>
@@ -85,6 +89,10 @@
                   Centre, Oslo, Norway, 2017, pp. 1–40, Morocco: Marriage and Divorce – Legal and Cultural Aspects.
               </p>
               <br />
+              <p>
+                “Morocco.” Data, data.worldbank.org/country/morocco.
+              <p/>
+              <br/>
               <p>
                 Mehndiratta, M. M., B. Paul, and P. Mehndiratta. "Arranged marriage, consanguinity and epilepsy." Neurology Asia 12.Supplement 1 (2007): 15-7.
               <p/>
@@ -107,6 +115,10 @@
                   Mediterranean Politics, 20:2, 198-216, DOI: 10.1080/13629395.2015.1033900
               <p/>
               <br />
+              <p>
+                “UNdata | Search Results.” United Nations, United Nations, data.un.org/Search.aspx?q=moroccomarriage.
+              <p/>
+              <br/>
               <p>
                 Tayebi, Naeimeh, et al. “The Prevalence of Congenital Malformations and Its Correlation with Consanguineous Marriages.” Oman Medical
                   Journal, OMJ, Jan. 2010, www.ncbi.nlm.nih.gov/pmc/articles/PMC3215379/.
@@ -143,7 +155,7 @@
               <br />
 
             </article>
-          </div> <center/>
+          </div>
         </div>
       </template>
     </main-section>
